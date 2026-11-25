@@ -1,0 +1,344 @@
+[
+  {
+    "hotel_id": "11",
+    "hotel_name": "Lantern House London",
+    "city": "London",
+    "demo_price_gbp": 70,
+    "illustrative_room_tier": "Economy",
+    "image": "assets/hotel-11.jpg",
+    "image_kind": "generated",
+    "generator": "OpenAI image generation",
+    "generation_date": "2026-11-18",
+    "retained_approved_sample": false,
+    "source_png_sha256": "347d1252e05c78426bf1f35f318755e494eaf6d3f900551bc9624b58a59aec18",
+    "jpeg_sha256": "437c0a88de71332aa8f27b26a1486828384f0a7d7bac4577a93fe77f23b7bea0",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "web_bytes": 337998
+  },
+  {
+    "hotel_id": "12",
+    "hotel_name": "Willow Court London",
+    "city": "London",
+    "demo_price_gbp": 90,
+    "illustrative_room_tier": "Standard",
+    "image": "assets/hotel-12.jpg",
+    "image_kind": "generated",
+    "generator": "OpenAI image generation",
+    "generation_date": "2026-11-18",
+    "retained_approved_sample": false,
+    "source_png_sha256": "6f6b7591d7ca3a218c192b17dbc2d16cfc34d7355efe0a464c0bd2506c8867d4",
+    "jpeg_sha256": "0abd334805be1ea42ab33b7bf17a936c774293171d20e04e493f88c52d746df5",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "web_bytes": 409415
+  },
+  {
+    "hotel_id": "13",
+    "hotel_name": "Juniper Rooms London",
+    "city": "London",
+    "demo_price_gbp": 110,
+    "illustrative_room_tier": "Comfort",
+    "image": "assets/hotel-13.jpg",
+    "image_kind": "generated",
+    "generator": "OpenAI image generation",
+    "generation_date": "2026-11-18",
+    "retained_approved_sample": false,
+    "source_png_sha256": "80c9ca4b4235e34638d4c02b385e167301f435c4b5939ffa767114b547123654",
+    "jpeg_sha256": "8746fd6dd3c06f8be3ed4514a7fcff3d93d2f34a4ab5e259a465c518bae668ce",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "web_bytes": 399062
+  },
+  {
+    "hotel_id": "14",
+    "hotel_name": "Mosaic Lodge London",
+    "city": "London",
+    "demo_price_gbp": 77,
+    "illustrative_room_tier": "Value",
+    "image": "assets/hotel-14.jpg",
+    "image_kind": "generated",
+    "generator": "OpenAI image generation",
+    "generation_date": "2026-11-18",
+    "retained_approved_sample": false,
+    "source_png_sha256": "830d989507f56ec352bf0d3de54160695716214c1ad4c6b06350cd829c065595",
+    "jpeg_sha256": "c4c21cf4330bbbb59f79bae62389b462ee0b7345e44f0309ff5ff3239368b2fc",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "web_bytes": 414130
+  },
+  {
+    "hotel_id": "15",
+    "hotel_name": "Solstice Place London",
+    "city": "London",
+    "demo_price_gbp": 157,
+    "illustrative_room_tier": "Superior",
+    "image": "assets/hotel-15.jpg",
+    "image_kind": "generated",
+    "generator": "OpenAI image generation",
+    "generation_date": "2026-11-18",
+    "retained_approved_sample": false,
+    "source_png_sha256": "c54ad0eb72a8bd318644793404dd9e5f925d0d7f97e14c10ebd2495d708c10b7",
+    "jpeg_sha256": "ab43218c4dfbee82768e2aaa1ebfeb0dab284842a4d580a8981c285485451707",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "web_bytes": 460869
+  },
+  {
+    "hotel_id": "16",
+    "hotel_name": "Cobalt Residence London",
+    "city": "London",
+    "demo_price_gbp": 197,
+    "illustrative_room_tier": "Premium",
+    "image": "assets/hotel-16.jpg",
+    "image_kind": "generated",
+    "generator": "OpenAI image generation",
+    "generation_date": "2026-11-18",
+    "retained_approved_sample": false,
+    "source_png_sha256": "02d80ff49a587f5f6a1b9fec82586e4d1370992a66f5cbfd8b116867be4cc16c",
+    "jpeg_sha256": "3af5f7a7f7f5279a72b7af73cc9d20492c0ef87a3503da0993d2d1427ca277d6",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "web_bytes": 406848
+  },
+  {
+    "hotel_id": "21",
+    "hotel_name": "Lantern House Birmingham",
+    "city": "Birmingham",
+    "demo_price_gbp": 50,
+    "illustrative_room_tier": "Economy",
+    "image": "assets/hotel-21.jpg",
+    "image_kind": "generated",
+    "generator": "OpenAI image generation",
+    "generation_date": "2026-11-18",
+    "retained_approved_sample": false,
+    "source_png_sha256": "0d5f25952b23356a115083af33fd33ae9dc35d0e115c65a25b9d5a571dd65a13",
+    "jpeg_sha256": "a5e705c71597d08944f7653d667699e90a2bf738be354335e3e89013d9a369ab",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "web_bytes": 323317
+  },
+  {
+    "hotel_id": "22",
+    "hotel_name": "Willow Court Birmingham",
+    "city": "Birmingham",
+    "demo_price_gbp": 70,
+    "illustrative_room_tier": "Standard",
+    "image": "assets/hotel-22.jpg",
+    "image_kind": "generated",
+    "generator": "OpenAI image generation",
+    "generation_date": "2026-11-18",
+    "retained_approved_sample": true,
+    "source_png_sha256": "279830dc1be9f0b71ae29f969ddbbe59c25938bf893a4b4ee4a7f68573d267a7",
+    "jpeg_sha256": "d8a99d20becbf7280376f6732cd272c70475d9801f90dc7342dd29fb019cb514",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "web_bytes": 357520
+  },
+  {
+    "hotel_id": "23",
+    "hotel_name": "Juniper Rooms Birmingham",
+    "city": "Birmingham",
+    "demo_price_gbp": 90,
+    "illustrative_room_tier": "Comfort",
+    "image": "assets/hotel-23.jpg",
+    "image_kind": "generated",
+    "generator": "OpenAI image generation",
+    "generation_date": "2026-11-18",
+    "retained_approved_sample": true,
+    "source_png_sha256": "313dffab1c514c5eb6db99fbd0a77ab27140b73f2d323ea3849e30fd9a151276",
+    "jpeg_sha256": "fa0745e4f31b665aa39b88796e3eabfb5603f9b75f75d4dd17917b5b68f01600",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "web_bytes": 381477
+  },
+  {
+    "hotel_id": "24",
+    "hotel_name": "Mosaic Lodge Birmingham",
+    "city": "Birmingham",
+    "demo_price_gbp": 57,
+    "illustrative_room_tier": "Value",
+    "image": "assets/hotel-24.jpg",
+    "image_kind": "generated",
+    "generator": "OpenAI image generation",
+    "generation_date": "2026-11-18",
+    "retained_approved_sample": false,
+    "source_png_sha256": "2295faf4591bab53f723883241e6c1b29ee6896c141aef6a53a83f6d9d2c8786",
+    "jpeg_sha256": "076f1e926811a1f0c191db0d5888e0fd967c45d7e53618c114d3a2eba79e658f",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "web_bytes": 356895
+  },
+  {
+    "hotel_id": "25",
+    "hotel_name": "Solstice Place Birmingham",
+    "city": "Birmingham",
+    "demo_price_gbp": 137,
+    "illustrative_room_tier": "Superior",
+    "image": "assets/hotel-25.jpg",
+    "image_kind": "generated",
+    "generator": "OpenAI image generation",
+    "generation_date": "2026-11-18",
+    "retained_approved_sample": false,
+    "source_png_sha256": "54e0d9d57a2789e2506c9abbfa0f4673ed27b04396feadae1138eefb3122436b",
+    "jpeg_sha256": "ea97610722ab2eef2356f065dba0af3a6956331d219ded37c1a7c693a03cc86b",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "web_bytes": 378174
+  },
+  {
+    "hotel_id": "26",
+    "hotel_name": "Cobalt Residence Birmingham",
+    "city": "Birmingham",
+    "demo_price_gbp": 177,
+    "illustrative_room_tier": "Premium",
+    "image": "assets/hotel-26.jpg",
+    "image_kind": "generated",
+    "generator": "OpenAI image generation",
+    "generation_date": "2026-11-18",
+    "retained_approved_sample": false,
+    "source_png_sha256": "7bb6bbeaebfaf75945144dc192004de044304b7ce266a2c572ccfd7f32576b8a",
+    "jpeg_sha256": "f4da1e22af875d6ad0c939e76405abb34d3bc708708b2c03b92be92357309a39",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "web_bytes": 501136
+  },
+  {
+    "hotel_id": "31",
+    "hotel_name": "Lantern House Manchester",
+    "city": "Manchester",
+    "demo_price_gbp": 58,
+    "illustrative_room_tier": "Economy",
+    "image": "assets/hotel-31.jpg",
+    "image_kind": "generated",
+    "generator": "OpenAI image generation",
+    "generation_date": "2026-11-18",
+    "retained_approved_sample": false,
+    "source_png_sha256": "6050597589311083854080211aabc2e4588f3ee7467ae863fa2464e072f52ee0",
+    "jpeg_sha256": "c985ae54e0384570cdca202714a760a2f0607f9a9f36514255fefbe19d1298cd",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "web_bytes": 347568
+  },
+  {
+    "hotel_id": "32",
+    "hotel_name": "Willow Court Manchester",
+    "city": "Manchester",
+    "demo_price_gbp": 78,
+    "illustrative_room_tier": "Standard",
+    "image": "assets/hotel-32.jpg",
+    "image_kind": "generated",
+    "generator": "OpenAI image generation",
+    "generation_date": "2026-11-18",
+    "retained_approved_sample": false,
+    "source_png_sha256": "1de8c89e978d261e275221a41b1f46ea60257cb8c70dbf70ba39cd29a7f22a52",
+    "jpeg_sha256": "06898d39ced4cb8bc6767fe37fe90245d81023747e4dac28c63d39711512305c",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "web_bytes": 430797
+  },
+  {
+    "hotel_id": "33",
+    "hotel_name": "Juniper Rooms Manchester",
+    "city": "Manchester",
+    "demo_price_gbp": 98,
+    "illustrative_room_tier": "Comfort",
+    "image": "assets/hotel-33.jpg",
+    "image_kind": "generated",
+    "generator": "OpenAI image generation",
+    "generation_date": "2026-11-18",
+    "retained_approved_sample": false,
+    "source_png_sha256": "8b6453b1000442813165b019852f7914bea07699725fbb305474aed608853148",
+    "jpeg_sha256": "9eaf76b7eedf8cefa5708dce9e9976f3dad96c9ff48c201ed8b96eddfc7a8ede",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "web_bytes": 405290
+  },
+  {
+    "hotel_id": "34",
+    "hotel_name": "Mosaic Lodge Manchester",
+    "city": "Manchester",
+    "demo_price_gbp": 65,
+    "illustrative_room_tier": "Value",
+    "image": "assets/hotel-34.jpg",
+    "image_kind": "generated",
+    "generator": "OpenAI image generation",
+    "generation_date": "2026-11-18",
+    "retained_approved_sample": false,
+    "source_png_sha256": "ee600ccdf2eddd5e8d77645f3ad88b0ecea0c7a4a9e91ac4b230d5bd89247a40",
+    "jpeg_sha256": "d85b1671df7f2d29ba0d673b7c188720c2513f81297cad3ab98ff2a0df8ac4a8",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "web_bytes": 389847
+  },
+  {
+    "hotel_id": "35",
+    "hotel_name": "Solstice Place Manchester",
+    "city": "Manchester",
+    "demo_price_gbp": 145,
+    "illustrative_room_tier": "Superior",
+    "image": "assets/hotel-35.jpg",
+    "image_kind": "generated",
+    "generator": "OpenAI image generation",
+    "generation_date": "2026-11-18",
+    "retained_approved_sample": false,
+    "source_png_sha256": "52d9bb2ef9be0c7db181794ccf2caffa30bc06bc1a176cf8fc73d2ed3e315abf",
+    "jpeg_sha256": "eca40788bc9a6901b7d15a5b018bc0b84a00e5cf2345cdb77af4b1be1ee4a744",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "web_bytes": 493478
+  },
+  {
+    "hotel_id": "36",
+    "hotel_name": "Cobalt Residence Manchester",
+    "city": "Manchester",
+    "demo_price_gbp": 185,
+    "illustrative_room_tier": "Premium",
+    "image": "assets/hotel-36.jpg",
+    "image_kind": "generated",
+    "generator": "OpenAI image generation",
+    "generation_date": "2026-11-18",
+    "retained_approved_sample": false,
+    "source_png_sha256": "f2b04903bff7dc26f7f48742bb15b61239e764f73f4653e54eca64304401fa86",
+    "jpeg_sha256": "7e9c390827af16a81cb76a9e927d90de2360689773146b0f9c71e8380f793f8c",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "web_bytes": 387050
+  }
+]

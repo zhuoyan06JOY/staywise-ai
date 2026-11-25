@@ -1,0 +1,116 @@
+[
+  {
+    "id": "T01",
+    "expected": "Explicit request filters directly without clarification.",
+    "actual": "2 Birmingham matches; no clarification; budget source explicit.",
+    "status": "PASS"
+  },
+  {
+    "id": "T02",
+    "expected": "Subjective budget is clarified before showing results.",
+    "actual": "Budget question shown; \u00a3100 confirmation gives 3 matches.",
+    "status": "PASS"
+  },
+  {
+    "id": "T03",
+    "expected": "Suggested budget is opt-in and labelled.",
+    "actual": "Accepted demo default shown in conversation and budget source.",
+    "status": "PASS"
+  },
+  {
+    "id": "T04",
+    "expected": "Budget revision replaces the previous maximum.",
+    "actual": "Manchester retained; \u00a380 maximum gives 3 valid matches.",
+    "status": "PASS"
+  },
+  {
+    "id": "T05",
+    "expected": "City filter synchronises state and results.",
+    "actual": "2 London records, respecting the retained \u00a380 maximum.",
+    "status": "PASS"
+  },
+  {
+    "id": "T06",
+    "expected": "Rating threshold is applied.",
+    "actual": "3 results rated at least 4.5; no optional-budget question.",
+    "status": "PASS"
+  },
+  {
+    "id": "T07",
+    "expected": "Breakfast is a hard constraint.",
+    "actual": "4 breakfast matches.",
+    "status": "PASS"
+  },
+  {
+    "id": "T08",
+    "expected": "Multiple facilities use AND semantics.",
+    "actual": "1 hotel satisfies breakfast, parking and gym together.",
+    "status": "PASS"
+  },
+  {
+    "id": "T09",
+    "expected": "No matches explains the conflict and offers user-controlled recovery.",
+    "actual": "No-match state retains constraints; explicit budget removal restores 1 result.",
+    "status": "PASS"
+  },
+  {
+    "id": "T10",
+    "expected": "Feedback controls record their current value.",
+    "actual": "Feedback can be set and revised in memory.",
+    "status": "PASS"
+  },
+  {
+    "id": "T11",
+    "expected": "Unsupported inputs receive an honest fallback.",
+    "actual": "Unsupported task and multiple cities rejected without changing preferences.",
+    "status": "PASS"
+  },
+  {
+    "id": "T12",
+    "expected": "New search resets every interaction state.",
+    "actual": "Search state, feedback and conversation cleared.",
+    "status": "PASS"
+  },
+  {
+    "id": "T13",
+    "expected": "Pending budget survives city clarification; no repeated confirmed-budget question.",
+    "actual": "City precedes budget; breakfast retained; confirmed budget not re-asked.",
+    "status": "PASS"
+  },
+  {
+    "id": "T14",
+    "expected": "Chat and filters share state and relative revision is clarified.",
+    "actual": "Filter revision synchronised; \u201ccheaper\u201d asks rather than guessing.",
+    "status": "PASS"
+  },
+  {
+    "id": "T15",
+    "expected": "Refresh and details work through the static test server.",
+    "actual": "Local HTTP reload works; details dialog opens and closes.",
+    "status": "PASS"
+  },
+  {
+    "id": "T16",
+    "expected": "Price invariants, ranking and explanations agree with data.",
+    "actual": "18 city/maximum combinations checked for constraints, ranking and grounded explanations.",
+    "status": "PASS"
+  },
+  {
+    "id": "T17",
+    "expected": "Desktop and narrow layout retain accessible content.",
+    "actual": "No horizontal overflow at 390px or 1440px; mobile capture saved.",
+    "status": "PASS"
+  },
+  {
+    "id": "T18",
+    "expected": "Offline dataset mirror and runtime health are checked.",
+    "actual": "18 unique records match offline mirror; zero browser page errors.",
+    "status": "PASS"
+  },
+  {
+    "id": "T19",
+    "expected": "Area filter and clear control work.",
+    "actual": "Area is strict; Clear filters keeps city and removes constraints.",
+    "status": "PASS"
+  }
+]

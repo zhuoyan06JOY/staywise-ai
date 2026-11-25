@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="485pt" height="545pt" viewBox="0.00 0.00 485.00 545.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(10.8 534.6)">
+<title>StayWise</title>
+<polygon fill="white" stroke="none" points="-10.8,10.8 -10.8,-534.6 473.76,-534.6 473.76,10.8 -10.8,10.8"/>
+<!-- U&#45;&gt;UI -->
+<g id="edge1" class="edge">
+<title>U-&gt;UI</title>
+<path fill="none" stroke="#555555" stroke-width="0.9" d="M221.4,-483.48C221.4,-478.79 221.4,-473.8 221.4,-468.87"/>
+<polygon fill="#555555" stroke="#555555" stroke-width="0.9" points="219.13,-483.04 221.4,-489.54 223.68,-483.04 219.13,-483.04"/>
+<polygon fill="#555555" stroke="#555555" stroke-width="0.9" points="223.68,-469.1 221.4,-462.6 219.13,-469.1 223.68,-469.1"/>
+</g>
+<!-- UI&#45;&gt;AI -->
+<g id="edge2" class="edge">
+<title>UI-&gt;AI</title>
+<path fill="none" stroke="#555555" stroke-width="0.9" d="M183.34,-405.15C171.05,-395.32 157.25,-384.28 144.29,-373.91"/>
+<polygon fill="#555555" stroke="#555555" stroke-width="0.9" points="181.72,-406.77 188.22,-409.05 184.56,-403.22 181.72,-406.77"/>
+<polygon fill="#555555" stroke="#555555" stroke-width="0.9" points="145.96,-372.34 139.47,-370.05 143.12,-375.89 145.96,-372.34"/>
+<text xml:space="preserve" text-anchor="middle" x="187.32" y="-381.43" font-family="Arial" font-size="9.00">Input /</text>
+<text xml:space="preserve" text-anchor="middle" x="187.32" y="-370.63" font-family="Arial" font-size="9.00">Clarification</text>
+</g>
+<!-- UI&#45;&gt;S -->
+<g id="edge3" class="edge">
+<title>UI-&gt;S</title>
+<path fill="none" stroke="#555555" stroke-width="0.9" d="M253.52,-409.9C267.17,-398.99 283.38,-386.02 298.46,-373.95"/>
+<polygon fill="#555555" stroke="#555555" stroke-width="0.9" points="299.68,-375.89 303.33,-370.05 296.84,-372.34 299.68,-375.89"/>
+<text xml:space="preserve" text-anchor="middle" x="259.23" y="-394.63" font-family="Arial" font-size="9.00">Updates</text>
+</g>
+<!-- AI&#45;&gt;S -->
+<g id="edge4" class="edge">
+<title>AI-&gt;S</title>
+<path fill="none" stroke="#555555" stroke-width="0.9" d="M198.54,-334.8C213.55,-334.8 229.01,-334.8 244.03,-334.8"/>
+<polygon fill="#555555" stroke="#555555" stroke-width="0.9" points="198.89,-332.53 192.39,-334.8 198.89,-337.08 198.89,-332.53"/>
+<polygon fill="#555555" stroke="#555555" stroke-width="0.9" points="243.97,-337.08 250.47,-334.8 243.97,-332.53 243.97,-337.08"/>
+<text xml:space="preserve" text-anchor="middle" x="236.79" y="-337.5" font-family="Arial" font-size="9.00">Context</text>
+</g>
+<!-- S&#45;&gt;R -->
+<g id="edge5" class="edge">
+<title>S-&gt;R</title>
+<path fill="none" stroke="#555555" stroke-width="0.9" d="M347.4,-300.24C347.4,-288.16 347.4,-274.47 347.4,-261.84"/>
+<polygon fill="#555555" stroke="#555555" stroke-width="0.9" points="349.68,-262 347.4,-255.5 345.13,-262 349.68,-262"/>
+<text xml:space="preserve" text-anchor="middle" x="323.14" y="-283.74" font-family="Arial" font-size="9.00">Preferences</text>
+</g>
+<!-- D&#45;&gt;R -->
+<g id="edge6" class="edge">
+<title>D-&gt;R</title>
+<path fill="none" stroke="#555555" stroke-width="0.9" d="M191.03,-219.6C208.45,-219.6 226.7,-219.6 244.32,-219.6"/>
+<polygon fill="#555555" stroke="#555555" stroke-width="0.9" points="243.97,-221.88 250.47,-219.6 243.97,-217.33 243.97,-221.88"/>
+<text xml:space="preserve" text-anchor="middle" x="208.17" y="-222.3" font-family="Arial" font-size="9.00">Data</text>
+</g>
+<!-- R&#45;&gt;O -->
+<g id="edge7" class="edge">
+<title>R-&gt;O</title>
+<path fill="none" stroke="#555555" stroke-width="0.9" d="M347.4,-185.04C347.4,-172.96 347.4,-159.27 347.4,-146.64"/>
+<polygon fill="#555555" stroke="#555555" stroke-width="0.9" points="349.68,-146.8 347.4,-140.3 345.13,-146.8 349.68,-146.8"/>
+<text xml:space="preserve" text-anchor="middle" x="332.39" y="-168.54" font-family="Arial" font-size="9.00">Results</text>
+</g>
+<!-- O&#45;&gt;A1 -->
+<g id="edge8" class="edge">
+<title>O:e-&gt;A1</title>
+<path fill="none" stroke="#555555" stroke-width="0.9" d="M442.8,-104.4C442.8,-104.4 457.96,-104.4 461.75,-104.4"/>
+</g>
+<!-- A1&#45;&gt;A2 -->
+<g id="edge9" class="edge">
+<title>A1-&gt;A2</title>
+<path fill="none" stroke="#555555" stroke-width="0.9" d="M462.6,-104.94C462.6,-119.4 462.6,-420.96 462.6,-435.09"/>
+</g>
+<!-- A2&#45;&gt;UI -->
+<g id="edge10" class="edge">
+<title>A2-&gt;UI:e</title>
+<path fill="none" stroke="#555555" stroke-width="0.9" d="M461.8,-435.6C452.74,-435.6 369.84,-435.6 344.15,-435.6"/>
+<polygon fill="#555555" stroke="#555555" stroke-width="0.9" points="344.46,-433.33 337.96,-435.6 344.46,-437.88 344.46,-433.33"/>
+</g>
+<!-- U -->
+<g id="node1" class="node">
+<title>U</title>
+<polygon fill="white" stroke="#444444" points="286.2,-523.8 156.6,-523.8 156.6,-491.4 286.2,-491.4 286.2,-523.8"/>
+<text xml:space="preserve" text-anchor="middle" x="221.4" y="-504.3" font-family="Arial" font-size="11.00" fill="#222222">User</text>
+</g>
+<!-- UI -->
+<g id="node2" class="node">
+<title>UI</title>
+<polygon fill="white" stroke="#444444" points="336.6,-460.8 106.2,-460.8 106.2,-410.4 336.6,-410.4 336.6,-460.8"/>
+<text xml:space="preserve" text-anchor="middle" x="221.4" y="-438.9" font-family="Arial" font-size="11.00" fill="#222222">Web Interface</text>
+<text xml:space="preserve" text-anchor="middle" x="221.4" y="-425.7" font-family="Arial" font-size="11.00" fill="#222222">Chat, Filters and Feedback</text>
+</g>
+<!-- AI -->
+<g id="node3" class="node">
+<title>AI</title>
+<polygon fill="#f5f5f5" stroke="#444444" stroke-dasharray="5,2" points="190.8,-369 0,-369 0,-300.6 190.8,-300.6 190.8,-369"/>
+<text xml:space="preserve" text-anchor="middle" x="95.4" y="-344.7" font-family="Arial" font-size="11.00" fill="#222222">Rule-based Assistant</text>
+<text xml:space="preserve" text-anchor="middle" x="95.4" y="-331.5" font-family="Arial" font-size="11.00" fill="#222222">Parsing and Clarification</text>
+<text xml:space="preserve" text-anchor="middle" x="95.4" y="-318.3" font-family="Arial" font-size="11.00" fill="#222222">Simulated AI Behaviour</text>
+</g>
+<!-- S -->
+<g id="node4" class="node">
+<title>S</title>
+<polygon fill="white" stroke="#444444" points="442.8,-369 252,-369 252,-300.6 442.8,-300.6 442.8,-369"/>
+<text xml:space="preserve" text-anchor="middle" x="347.4" y="-344.7" font-family="Arial" font-size="11.00" fill="#222222">Preference State</text>
+<text xml:space="preserve" text-anchor="middle" x="347.4" y="-331.5" font-family="Arial" font-size="11.00" fill="#222222">City, Budget, Preferences</text>
+<text xml:space="preserve" text-anchor="middle" x="347.4" y="-318.3" font-family="Arial" font-size="11.00" fill="#222222">History and Feedback</text>
+</g>
+<!-- D -->
+<g id="node5" class="node">
+<title>D</title>
+<polygon fill="#f5f5f5" stroke="#444444" stroke-dasharray="5,2" points="190.8,-253.8 0,-253.8 0,-185.4 190.8,-185.4 190.8,-253.8"/>
+<text xml:space="preserve" text-anchor="middle" x="95.4" y="-229.5" font-family="Arial" font-size="11.00" fill="#222222">Local Hotel Dataset</text>
+<text xml:space="preserve" text-anchor="middle" x="95.4" y="-216.3" font-family="Arial" font-size="11.00" fill="#222222">18 Fictional Hotels</text>
+<text xml:space="preserve" text-anchor="middle" x="95.4" y="-203.1" font-family="Arial" font-size="11.00" fill="#222222">Simulated Data</text>
+</g>
+<!-- R -->
+<g id="node6" class="node">
+<title>R</title>
+<polygon fill="white" stroke="#444444" points="442.8,-253.8 252,-253.8 252,-185.4 442.8,-185.4 442.8,-253.8"/>
+<text xml:space="preserve" text-anchor="middle" x="347.4" y="-229.5" font-family="Arial" font-size="11.00" fill="#222222">Recommendation Engine</text>
+<text xml:space="preserve" text-anchor="middle" x="347.4" y="-216.3" font-family="Arial" font-size="11.00" fill="#222222">Filtering and Ranking</text>
+<text xml:space="preserve" text-anchor="middle" x="347.4" y="-203.1" font-family="Arial" font-size="11.00" fill="#222222">Explanations</text>
+</g>
+<!-- P -->
+<g id="node7" class="node">
+<title>P</title>
+<polygon fill="white" stroke="#444444" stroke-dasharray="1,5" points="190.8,-138.6 0,-138.6 0,-70.2 190.8,-70.2 190.8,-138.6"/>
+<text xml:space="preserve" text-anchor="middle" x="95.4" y="-114.3" font-family="Arial" font-size="11.00" fill="#222222">Planned Evaluation</text>
+<text xml:space="preserve" text-anchor="middle" x="95.4" y="-101.1" font-family="Arial" font-size="11.00" fill="#222222">User Study</text>
+<text xml:space="preserve" text-anchor="middle" x="95.4" y="-87.9" font-family="Arial" font-size="11.00" fill="#222222">Clarification vs. Assumption</text>
+</g>
+<!-- O -->
+<g id="node8" class="node">
+<title>O</title>
+<polygon fill="white" stroke="#444444" points="442.8,-138.6 252,-138.6 252,-70.2 442.8,-70.2 442.8,-138.6"/>
+<text xml:space="preserve" text-anchor="middle" x="347.4" y="-114.3" font-family="Arial" font-size="11.00" fill="#222222">Results Display</text>
+<text xml:space="preserve" text-anchor="middle" x="347.4" y="-101.1" font-family="Arial" font-size="11.00" fill="#222222">Hotel Cards and Details</text>
+<text xml:space="preserve" text-anchor="middle" x="347.4" y="-87.9" font-family="Arial" font-size="11.00" fill="#222222">No-match Options</text>
+</g>
+<!-- A1 -->
+<!-- A2 -->
+<!-- L1 -->
+<g id="node11" class="node">
+<title>L1</title>
+<polygon fill="white" stroke="#444444" points="122.4,-28.8 3.6,-28.8 3.6,0 122.4,0 122.4,-28.8"/>
+<text xml:space="preserve" text-anchor="middle" x="63" y="-11.4" font-family="Arial" font-size="10.00" fill="#222222">Implemented</text>
+</g>
+<!-- L2 -->
+<g id="node12" class="node">
+<title>L2</title>
+<polygon fill="#f5f5f5" stroke="#444444" stroke-dasharray="5,2" points="280.8,-28.8 162,-28.8 162,0 280.8,0 280.8,-28.8"/>
+<text xml:space="preserve" text-anchor="middle" x="221.4" y="-11.4" font-family="Arial" font-size="10.00" fill="#222222">Simulated</text>
+</g>
+<!-- L3 -->
+<g id="node13" class="node">
+<title>L3</title>
+<polygon fill="white" stroke="#444444" stroke-dasharray="1,5" points="439.2,-28.8 320.4,-28.8 320.4,0 439.2,0 439.2,-28.8"/>
+<text xml:space="preserve" text-anchor="middle" x="379.8" y="-11.4" font-family="Arial" font-size="10.00" fill="#222222">Planned</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-23",
+  "cities": [
+    {
+      "city": "London",
+      "hotel_cards": 6,
+      "all_images_loaded": true,
+      "unique_images": true,
+      "details_match_card": true,
+      "generated_image_labels_present": true
+    },
+    {
+      "city": "Birmingham",
+      "hotel_cards": 6,
+      "all_images_loaded": true,
+      "unique_images": true,
+      "details_match_card": true,
+      "generated_image_labels_present": true
+    },
+    {
+      "city": "Manchester",
+      "hotel_cards": 6,
+      "all_images_loaded": true,
+      "unique_images": true,
+      "details_match_card": true,
+      "generated_image_labels_present": true
+    }
+  ],
+  "distinct_image_files": 18,
+  "distinct_image_hashes": 18,
+  "hotel_logic_fields_preserved": true,
+  "mobile_overflow": false,
+  "runtime_errors": [],
+  "existing_browser_suite": "19 passed"
+}
